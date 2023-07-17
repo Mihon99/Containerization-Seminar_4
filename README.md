@@ -8,14 +8,14 @@
 
 **Выполнение**
 
-[Dockerfile]()
+[Dockerfile](https://github.com/Mihon99/Containerization-Seminar_4/blob/main/Dockerfile)
 
 
-[Python-file]()
+[Python-file](https://github.com/Mihon99/Containerization-Seminar_4/blob/main/task4.py)
 
-![command for linux containerization]()
-![command for linux containerization]()
-![command for linux containerization]()
-![command for linux containerization]()
-![command for linux containerization]()
-![command for linux containerization]()
+![command for linux containerization](https://github.com/Mihon99/Containerization-Seminar_4/blob/main/source/1.PNG)
+![command for linux containerization](https://github.com/Mihon99/Containerization-Seminar_4/blob/main/source/2.PNG)
+![command for linux containerization](https://github.com/Mihon99/Containerization-Seminar_4/blob/main/source/3.PNG)
+![command for linux containerization](https://github.com/Mihon99/Containerization-Seminar_4/blob/main/source/4.PNG)
+![command for linux containerization](https://github.com/Mihon99/Containerization-Seminar_4/blob/main/source/5.PNG)
+![command for linux containerization](https://github.com/Mihon99/Containerization-Seminar_4/blob/main/source/6.PNG)
